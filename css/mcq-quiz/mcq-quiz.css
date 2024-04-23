@@ -1,11 +1,11 @@
 .quiz-container{max-width:100%;margin:0 auto;padding:20px;border:1px solid #ccc;border-radius:5px}
-.question{font-weight:bold;margin-bottom:10px;background-color:#ffff66;padding:10px;border:1px solid #ccc;border-radius:5px}
-.option{margin:5px 0;padding:10px;border:1px solid #ccc;border-radius:5px;cursor:pointer}
+.question{font-weight:bold;margin:10px;background-color:#ffff66;padding:10px;border:1px solid #ccc;border-radius:5px}
+.option{margin:10px;padding:10px;border:1px solid #ccc;border-radius:5px;cursor:pointer}
 .option:not(.selected):hover{background-color:#f0f0f0}
 .selected{background-color:#007acc;color:#fff}
 .correct{background-color:green;color:#fff}
 .wrong{background-color:red;color:#fff}
-.explanation{margin-top:10px;display:none;background-color:#66ffff;padding:10px;border:1px solid #ccc;border-radius:5px}
-.report-card{margin-top:20px;padding:10px;border:1px solid #ccc;border-radius:5px;background-color:#f0f0f0}
+.explanation{margin:10px;display:none;background-color:#66ffff;padding:10px;border:1px solid #ccc;border-radius:5px}
+.report-card{margin:10px;padding:10px;border:1px solid #ccc;border-radius:5px;background-color:#f0f0f0}
 .report-card h2{margin:0 !important}
 .report-card p{margin:.5em 0 !important}
